@@ -1,5 +1,5 @@
 // Package for dingding message robots
-package dingding
+package odingding
 
 import (
 	"fmt"
